@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshwagh14&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshwagh14" /> </p>
 
-- 🔭 I’m currently working on [GradeVerse (The Universe Mark system)
+- 🔭 I’m currently working on GradeVerse (The Universe Mark system) Project.
 
 - 🌱 I’m currently learning **Nodejs,ExpressJs & MongoDB**
 
