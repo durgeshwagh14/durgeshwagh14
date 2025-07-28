@@ -54,9 +54,9 @@
     <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" alt="AI" width="40" height="40"/>
   </a>
 
-  <!-- ML -->
-<a href="#" title="Machine Learning">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Deep_learning.jpg" alt="ML" width="40" height="40"/>
+<!-- R Programming -->
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </a>
 
 
