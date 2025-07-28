@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on GradeVerse (The Universe Mark system) Project.
 
-- 🌱 I’m currently learning **Nodejs,ExpressJs & MongoDB**
+- 🌱 I’m currently learning **Data Science With AI ML**
 
 - 👯 I’m recently completed a [SPPU Calculator](http://sppucalculator.netlify.app/)
 
