@@ -55,9 +55,10 @@
   </a>
 
   <!-- ML -->
-  <a href="#" title="Machine Learning">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-machine-learning-artificial-intelligence-flat-flat-juicy-fish.png" alt="ML" width="40" height="40"/>
-  </a>
+<a href="#" title="Machine Learning">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Deep_learning.jpg" alt="ML" width="40" height="40"/>
+</a>
+
 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
