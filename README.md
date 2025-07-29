@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshwagh14&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshwagh14" /> </p>
 
-- 🔭 I’m currently working on GradeVerse (The Universe Mark system) Project.
-
 - 🌱 I’m currently learning **Data Science With AI ML**
 
 - 👯 I’m recently completed a [SPPU Calculator](http://sppucalculator.netlify.app/)
 
-- 🤝 I’m Created a Basic Application [TODO-APP & Calculator](https://github.com/durgeshwagh14/Calculator.git)
-
 - 👨‍💻 All of my projects are available at [https://durgesh14portfolio.netlify.app/](https://durgesh14portfolio.netlify.app/)
-
-- 💬 Ask me about **Javascript & React**
 
 - 📫 How to reach me **durgeshwagh903@gmail.com**
 
