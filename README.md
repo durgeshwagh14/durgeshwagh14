@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Wagh</h1>
-<h3 align="center">I am a skilled Full Stack Developer, able to build strong and fast websites that work well.</h3>
+<h3 align="center">I am currently learning data science and developing skills to analyze and interpret data for real-world problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshwagh14&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshwagh14" /> </p>
 
