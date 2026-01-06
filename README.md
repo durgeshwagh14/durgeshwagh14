@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Wagh</h1>
 <h3 align="center">
-Fresher Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • Machine Learning
+Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • Machine Learning • AI
 </h3>
 
 <p align="left">
