@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm Durgesh Wagh</h1>
-<h3 align="center">I am currently learning data science and developing skills to analyze and interpret data for real-world problem-solving.</h3>
+<h3 align="center">
+Fresher Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • Machine Learning
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshwagh14&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshwagh14" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=durgeshwagh14&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshwagh14" />
+</p>
 
-- 🌱 I’m currently learning **Data Science With AI ML**
+---
 
-- 👯 I’m recently completed a [SPPU Calculator](http://sppucalculator.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://durgesh14portfolio.netlify.app/](https://durgesh14portfolio.netlify.app/)
+### 👨‍💻 About Me
+- 🎓 Fresher with a strong interest in **Data Analysis & Data Science**
+- 📊 Learning how to **clean, analyze, and visualize data** for real-world problems
+- 🤖 Exploring **Machine Learning & AI fundamentals**
+- 📈 Interested in **business insights, dashboards, and storytelling with data**
+- 🌱 Continuously improving my technical and analytical skills
 
 - 📫 How to reach me **durgeshwagh903@gmail.com**
+
+---
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
