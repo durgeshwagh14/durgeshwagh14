@@ -16,8 +16,6 @@ Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • Machine
 - 📈 Interested in **business insights, dashboards, and storytelling with data**
 - 🌱 Continuously improving my technical and analytical skills
 
-- 📫 How to reach me **durgeshwagh903@gmail.com**
-
 ---
 
 
@@ -121,8 +119,18 @@ Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • Machine
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshwagh14&show_icons=true&locale=en&layout=compact" alt="durgeshwagh14" /></p>
+### 🌐 Portfolio & Contact
+- 👨‍💻 Portfolio: https://durgesh14portfolio.netlify.app/
+- 📫 Email: **durgeshwagh903@gmail.com**
+- 💼 LinkedIn: www.linkedin.com/in/durgesh-wagh-651886285
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshwagh14&show_icons=true&locale=en" alt="durgeshwagh14" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshwagh14&" alt="durgeshwagh14" /></p>
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=durgeshwagh14&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshwagh14&layout=compact&theme=tokyonight" />
+
+---
+
+⭐ *Actively learning, building projects, and growing as a Data Analyst & Data Scientist.*
