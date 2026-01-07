@@ -124,13 +124,5 @@ Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • Machine
 - 📫 Email: **durgeshwagh903@gmail.com**
 - 💼 LinkedIn: www.linkedin.com/in/durgesh-wagh-651886285
 
----
-
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=durgeshwagh14&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshwagh14&layout=compact&theme=tokyonight" />
-
----
 
 ⭐ *Actively learning, building projects, and growing as a Data Analyst & Data Scientist.*
